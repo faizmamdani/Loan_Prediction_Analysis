@@ -14,6 +14,7 @@
 
       D) Data Splitting
 
+
 ![image](https://github.com/faizmamdani/Loan_Prediction_Analysis/assets/135321547/be3d059c-14c8-47af-a574-813677acd2ca)
 
 ![image](https://github.com/faizmamdani/Loan_Prediction_Analysis/assets/135321547/9dac8913-6e6e-4f8d-92c4-aa99c5a90647)
